@@ -1,6 +1,6 @@
 #include<iotream>
 
-int main(){
-	printf("Hello World");
+int main(){	
+	printf("Hajungmin");
 	return 0;
 }
